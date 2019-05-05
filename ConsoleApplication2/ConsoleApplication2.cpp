@@ -14,9 +14,6 @@ test git b
 
 
 
-change 3
-
-change 5
 
 change 6
 
